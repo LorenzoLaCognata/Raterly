@@ -6,11 +6,9 @@
     include('preloader.php');
     include('header.php');
     include('main_open.php');
-	include('index_hero.php');
-    include('popular_places.php');
-    include('services.php');
-    include('categories.php');
-    include('main_close.php');
+    include('places_hero.php');
+    include('listing_details.php');
+	include('main_close.php');
     include('footer.php');
     include('scripts.php');
     include('body_close.php');

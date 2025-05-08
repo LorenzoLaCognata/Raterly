@@ -1,18 +1,9 @@
 <?php
     $title = "Raterly";
-    include('html_open.php');
-    include('head.php');
-    include('body_open.php');
-    include('preloader.php');
-    include('header.php');
-    include('main_open.php');
-	include('index_hero.php');
-    include('popular_places.php');
-    include('services.php');
-    include('categories.php');
-    include('main_close.php');
-    include('footer.php');
-    include('scripts.php');
-    include('body_close.php');
-    include('html_close.php');
+    include 'pages/common/common_open.php';
+	include 'pages/index/hero.php';
+    include 'pages/index/popular_places.php';
+    include 'pages/index/services.php';
+    include 'pages/index/categories.php';
+    include 'pages/common/common_close.php';
 ?>

@@ -7,7 +7,7 @@
 								<div class="single-footer-caption mb-50">
 									<div class="single-footer-caption mb-30">
 										<div class="footer-logo">
-											<a href="index.php"><img src="assets/img/logo/logo2_footer.png" alt=""></a>
+											<a href="index.php"><img src="/assets/img/logo/logo2_footer.png" alt=""></a>
 										</div>
 									</div>
 								</div>

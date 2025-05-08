@@ -1,4 +1,4 @@
-			<div class="services-area pt-150 pb-150 section-bg" data-background="assets/img/gallery/section_bg02.jpg">
+			<div class="services-area pt-150 pb-150 section-bg" data-background="/assets/img/gallery/section_bg02.jpg">
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-12">
@@ -18,7 +18,7 @@
 									<h5><a href="#">XXX</a></h5>
 									<p>XXX</p>
 								</div>
-								<img class="shape1 d-none d-lg-block" src="assets/img/icon/serices1.png" alt="">
+								<img class="shape1 d-none d-lg-block" src="/assets/img/icon/services1.png" alt="">
 							</div>
 						</div>
 						<div class="col-lg-3 col-md-6">
@@ -30,7 +30,7 @@
 									<h5><a href="#">XXX</a></h5>
 									<p>XXX</p>
 								</div>
-								<img class="shape2 d-none d-lg-block" src="assets/img/icon/serices2.png" alt="">
+								<img class="shape2 d-none d-lg-block" src="/assets/img/icon/services2.png" alt="">
 							</div>
 						</div>
 						<div class="col-lg-3 col-md-6">
